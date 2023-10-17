@@ -15,7 +15,7 @@ jobs:
        - name: Checkout code
          uses: actions/checkout@v2
 
-   pipeline:
+   CI:
     uses: Aish19999/DevOps_templet/.github/workflows/actions.yml@main    
    
     
